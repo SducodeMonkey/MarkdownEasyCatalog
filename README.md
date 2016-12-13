@@ -14,3 +14,6 @@
 ```
 ./MarkdownEasyCatalog
 ```
+
+可执行文件下载：
+- [点击这里](https://github.com/SducodeMonkey/MarkdownEasyCatalog/raw/master/Output/MarkdownEasyCatalog)
