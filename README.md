@@ -15,5 +15,5 @@
 ./MarkdownEasyCatalog
 ```
 
-可执行文件下载：
-- [点击这里](https://github.com/SducodeMonkey/MarkdownEasyCatalog/raw/master/Output/MarkdownEasyCatalog)
+- 可执行文件获取
+  - Build & Run，Products目录中获取MarkdownEasyCatelog可执行文件。
